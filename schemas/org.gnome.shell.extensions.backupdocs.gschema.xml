@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.backupdocs" path="/org/gnome/shell/extensions/backupdocs/">
+    <key name="save-directory" type="s">
+      <default>''</default>
+      <summary>Local directory to sync to</summary>
+      <description>Local directory for rclone sync to</description>
+    </key>
+  </schema>
+</schemalist>

@@ -1,0 +1,11 @@
+{
+  "name": "backupdocs",
+  "description": "Run Rclone script to backup documents",
+  "uuid": "backupdocs",
+  "settings-schema": "org.gnome.shell.extensions.backupdocs",
+  "shell-version": [
+    "40",
+    "41"
+  ]
+}
+
